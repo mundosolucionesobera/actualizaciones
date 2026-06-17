@@ -1,1 +1,4 @@
+ACTUALIZACIÓN 17/06/2026
 
+• Nueva estructura de GitHub.
+• Pruebas de contenido remoto.
